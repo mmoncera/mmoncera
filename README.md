@@ -1,9 +1,9 @@
 ### Welcome to my GitHub profile!
-
+I'm Michael Moncera, a software engineer from Southern California and a LearningFuze graduate.
 
 ### My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -13,6 +13,8 @@
 [![NodeJS](https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=for-the-badge)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoncera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me!
