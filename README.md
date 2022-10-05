@@ -1,11 +1,7 @@
 ![banner](/banner.png)
 
-## Welcome to my GitHub profile!
+## Welcome to my GitHub profile! <img src="https://github.com/mmoncera/mmoncera/blob/main/wave.gif" width="30" />
 I'm Michael Moncera, a software engineer from Southern California and a [LearningFuze](https://learningfuze.com/) graduate.
-
-
-## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -16,8 +12,10 @@ I'm Michael Moncera, a software engineer from Southern California and a [Learnin
 [![Express](https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=flat-square)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoncera&hide=TeX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoncera&hide=TeX&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-moncera/)](https://www.linkedin.com/in/michael-moncera/)
