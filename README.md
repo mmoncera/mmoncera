@@ -13,7 +13,7 @@ I'm Michael Moncera, a software engineer from Southern California and a [Learnin
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
 
 ## My Github Stats
-[![mmoncera GitHub stats](https://github-readme-stats-mmoncera.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![mmoncera GitHub stats](https://github-readme-stats-mmoncera.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=gotham)]
 
 [![Top Langs](https://github-readme-stats-mmoncera.vercel.app/api/top-langs/?username=mmoncera&hide=TeX&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
