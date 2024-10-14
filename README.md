@@ -13,9 +13,9 @@ I'm Michael Moncera, a software engineer from Southern California and a [Learnin
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
 
 ## My Github Stats
-[![mmoncera GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=gotham)]
+![mmoncera GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mmoncera&count_private=true&hide=stars&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmoncera&hide=TeX&layout=compact&theme=gotham)]
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmoncera&hide=TeX&layout=compact&theme=gotham)
 
 ## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/michael-moncera/)](https://www.linkedin.com/in/michael-moncera/)
